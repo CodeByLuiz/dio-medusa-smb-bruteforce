@@ -1,0 +1,5 @@
+adm1
+adm
+admin
+user
+msfadmin
